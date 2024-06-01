@@ -1,0 +1,13 @@
+# Dependencias
+/node_modules/
+
+# Carpetas de caché
+.cache/
+
+# Dist o build folders
+/dist/
+/build/
+
+# Logs
+*.log
+node_modules/.cache/default-development/7.pack

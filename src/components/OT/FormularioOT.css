@@ -1,0 +1,27 @@
+/* Estilos para el formulario de inserción de OT */
+.container {
+  box-sizing: border-box;
+  width: 40%;
+  min-height: 100%;
+  padding: 10px;
+  display: flex;
+  background-color: #889758;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+  box-shadow: inset 1px 1px 1px rgba(0, 0, 0, 0.2),
+    inset -1px -1px 1px rgba(255, 255, 255, 0.258);
+  border-radius: 5px;
+}
+
+
+
+.image-preview {
+  margin-top: 10px;
+}
+
+.image-preview img {
+  max-width: 100px;
+  height: auto;
+  margin-top: 5px;
+}
